@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Fistprogram\UserInput\obj\Debug\netcoreapp3.1\UserInput.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fistprogram\UserInput\obj\Debug\netcoreapp3.1\UserInput.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Fistprogram\UserInput\obj\Debug\netcoreapp3.1\UserInput.AssemblyInfo.cs
+C:\Users\User\source\repos\Fistprogram\UserInput\bin\Debug\netcoreapp3.1\UserInput.exe
+C:\Users\User\source\repos\Fistprogram\UserInput\bin\Debug\netcoreapp3.1\UserInput.deps.json
+C:\Users\User\source\repos\Fistprogram\UserInput\bin\Debug\netcoreapp3.1\UserInput.runtimeconfig.json
+C:\Users\User\source\repos\Fistprogram\UserInput\bin\Debug\netcoreapp3.1\UserInput.runtimeconfig.dev.json
+C:\Users\User\source\repos\Fistprogram\UserInput\bin\Debug\netcoreapp3.1\UserInput.dll
+C:\Users\User\source\repos\Fistprogram\UserInput\bin\Debug\netcoreapp3.1\UserInput.pdb
+C:\Users\User\source\repos\Fistprogram\UserInput\obj\Debug\netcoreapp3.1\UserInput.dll
+C:\Users\User\source\repos\Fistprogram\UserInput\obj\Debug\netcoreapp3.1\UserInput.pdb
+C:\Users\User\source\repos\Fistprogram\UserInput\obj\Debug\netcoreapp3.1\UserInput.genruntimeconfig.cache

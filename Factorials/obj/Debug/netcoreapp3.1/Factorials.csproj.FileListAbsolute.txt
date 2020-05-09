@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Fistprogram\Factorials\bin\Debug\netcoreapp3.1\Factorials.exe
+C:\Users\User\source\repos\Fistprogram\Factorials\bin\Debug\netcoreapp3.1\Factorials.deps.json
+C:\Users\User\source\repos\Fistprogram\Factorials\bin\Debug\netcoreapp3.1\Factorials.runtimeconfig.json
+C:\Users\User\source\repos\Fistprogram\Factorials\bin\Debug\netcoreapp3.1\Factorials.runtimeconfig.dev.json
+C:\Users\User\source\repos\Fistprogram\Factorials\bin\Debug\netcoreapp3.1\Factorials.dll
+C:\Users\User\source\repos\Fistprogram\Factorials\bin\Debug\netcoreapp3.1\Factorials.pdb
+C:\Users\User\source\repos\Fistprogram\Factorials\obj\Debug\netcoreapp3.1\Factorials.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fistprogram\Factorials\obj\Debug\netcoreapp3.1\Factorials.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Fistprogram\Factorials\obj\Debug\netcoreapp3.1\Factorials.AssemblyInfo.cs
+C:\Users\User\source\repos\Fistprogram\Factorials\obj\Debug\netcoreapp3.1\Factorials.dll
+C:\Users\User\source\repos\Fistprogram\Factorials\obj\Debug\netcoreapp3.1\Factorials.pdb
+C:\Users\User\source\repos\Fistprogram\Factorials\obj\Debug\netcoreapp3.1\Factorials.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Fistprogram\Multiples\bin\Debug\netcoreapp3.1\Multiples.exe
+C:\Users\User\source\repos\Fistprogram\Multiples\bin\Debug\netcoreapp3.1\Multiples.deps.json
+C:\Users\User\source\repos\Fistprogram\Multiples\bin\Debug\netcoreapp3.1\Multiples.runtimeconfig.json
+C:\Users\User\source\repos\Fistprogram\Multiples\bin\Debug\netcoreapp3.1\Multiples.runtimeconfig.dev.json
+C:\Users\User\source\repos\Fistprogram\Multiples\bin\Debug\netcoreapp3.1\Multiples.dll
+C:\Users\User\source\repos\Fistprogram\Multiples\bin\Debug\netcoreapp3.1\Multiples.pdb
+C:\Users\User\source\repos\Fistprogram\Multiples\obj\Debug\netcoreapp3.1\Multiples.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fistprogram\Multiples\obj\Debug\netcoreapp3.1\Multiples.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Fistprogram\Multiples\obj\Debug\netcoreapp3.1\Multiples.AssemblyInfo.cs
+C:\Users\User\source\repos\Fistprogram\Multiples\obj\Debug\netcoreapp3.1\Multiples.dll
+C:\Users\User\source\repos\Fistprogram\Multiples\obj\Debug\netcoreapp3.1\Multiples.pdb
+C:\Users\User\source\repos\Fistprogram\Multiples\obj\Debug\netcoreapp3.1\Multiples.genruntimeconfig.cache

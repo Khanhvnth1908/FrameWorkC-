@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Fistprogram\Maximum\bin\Debug\netcoreapp3.1\Maximum.exe
+C:\Users\User\source\repos\Fistprogram\Maximum\bin\Debug\netcoreapp3.1\Maximum.deps.json
+C:\Users\User\source\repos\Fistprogram\Maximum\bin\Debug\netcoreapp3.1\Maximum.runtimeconfig.json
+C:\Users\User\source\repos\Fistprogram\Maximum\bin\Debug\netcoreapp3.1\Maximum.runtimeconfig.dev.json
+C:\Users\User\source\repos\Fistprogram\Maximum\bin\Debug\netcoreapp3.1\Maximum.dll
+C:\Users\User\source\repos\Fistprogram\Maximum\bin\Debug\netcoreapp3.1\Maximum.pdb
+C:\Users\User\source\repos\Fistprogram\Maximum\obj\Debug\netcoreapp3.1\Maximum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fistprogram\Maximum\obj\Debug\netcoreapp3.1\Maximum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Fistprogram\Maximum\obj\Debug\netcoreapp3.1\Maximum.AssemblyInfo.cs
+C:\Users\User\source\repos\Fistprogram\Maximum\obj\Debug\netcoreapp3.1\Maximum.dll
+C:\Users\User\source\repos\Fistprogram\Maximum\obj\Debug\netcoreapp3.1\Maximum.pdb
+C:\Users\User\source\repos\Fistprogram\Maximum\obj\Debug\netcoreapp3.1\Maximum.genruntimeconfig.cache

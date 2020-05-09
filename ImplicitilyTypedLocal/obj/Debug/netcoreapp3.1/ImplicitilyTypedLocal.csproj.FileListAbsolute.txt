@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Fistprogram\ImplicitilyTypedLocal\bin\Debug\netcoreapp3.1\ImplicitilyTypedLocal.exe
+C:\Users\User\source\repos\Fistprogram\ImplicitilyTypedLocal\bin\Debug\netcoreapp3.1\ImplicitilyTypedLocal.deps.json
+C:\Users\User\source\repos\Fistprogram\ImplicitilyTypedLocal\bin\Debug\netcoreapp3.1\ImplicitilyTypedLocal.runtimeconfig.json
+C:\Users\User\source\repos\Fistprogram\ImplicitilyTypedLocal\bin\Debug\netcoreapp3.1\ImplicitilyTypedLocal.runtimeconfig.dev.json
+C:\Users\User\source\repos\Fistprogram\ImplicitilyTypedLocal\bin\Debug\netcoreapp3.1\ImplicitilyTypedLocal.dll
+C:\Users\User\source\repos\Fistprogram\ImplicitilyTypedLocal\bin\Debug\netcoreapp3.1\ImplicitilyTypedLocal.pdb
+C:\Users\User\source\repos\Fistprogram\ImplicitilyTypedLocal\obj\Debug\netcoreapp3.1\ImplicitilyTypedLocal.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Fistprogram\ImplicitilyTypedLocal\obj\Debug\netcoreapp3.1\ImplicitilyTypedLocal.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fistprogram\ImplicitilyTypedLocal\obj\Debug\netcoreapp3.1\ImplicitilyTypedLocal.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Fistprogram\ImplicitilyTypedLocal\obj\Debug\netcoreapp3.1\ImplicitilyTypedLocal.AssemblyInfo.cs
+C:\Users\User\source\repos\Fistprogram\ImplicitilyTypedLocal\obj\Debug\netcoreapp3.1\ImplicitilyTypedLocal.dll
+C:\Users\User\source\repos\Fistprogram\ImplicitilyTypedLocal\obj\Debug\netcoreapp3.1\ImplicitilyTypedLocal.pdb
+C:\Users\User\source\repos\Fistprogram\ImplicitilyTypedLocal\obj\Debug\netcoreapp3.1\ImplicitilyTypedLocal.genruntimeconfig.cache

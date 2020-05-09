@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Fistprogram\Fistprogram\bin\Debug\netcoreapp3.1\Fistprogram.exe
+C:\Users\User\source\repos\Fistprogram\Fistprogram\bin\Debug\netcoreapp3.1\Fistprogram.deps.json
+C:\Users\User\source\repos\Fistprogram\Fistprogram\bin\Debug\netcoreapp3.1\Fistprogram.runtimeconfig.json
+C:\Users\User\source\repos\Fistprogram\Fistprogram\bin\Debug\netcoreapp3.1\Fistprogram.runtimeconfig.dev.json
+C:\Users\User\source\repos\Fistprogram\Fistprogram\bin\Debug\netcoreapp3.1\Fistprogram.dll
+C:\Users\User\source\repos\Fistprogram\Fistprogram\bin\Debug\netcoreapp3.1\Fistprogram.pdb
+C:\Users\User\source\repos\Fistprogram\Fistprogram\obj\Debug\netcoreapp3.1\Fistprogram.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Fistprogram\Fistprogram\obj\Debug\netcoreapp3.1\Fistprogram.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fistprogram\Fistprogram\obj\Debug\netcoreapp3.1\Fistprogram.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Fistprogram\Fistprogram\obj\Debug\netcoreapp3.1\Fistprogram.AssemblyInfo.cs
+C:\Users\User\source\repos\Fistprogram\Fistprogram\obj\Debug\netcoreapp3.1\Fistprogram.dll
+C:\Users\User\source\repos\Fistprogram\Fistprogram\obj\Debug\netcoreapp3.1\Fistprogram.pdb
+C:\Users\User\source\repos\Fistprogram\Fistprogram\obj\Debug\netcoreapp3.1\Fistprogram.genruntimeconfig.cache

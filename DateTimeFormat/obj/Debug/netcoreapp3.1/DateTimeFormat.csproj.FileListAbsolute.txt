@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Fistprogram\DateTimeFormat\bin\Debug\netcoreapp3.1\DateTimeFormat.exe
+C:\Users\User\source\repos\Fistprogram\DateTimeFormat\bin\Debug\netcoreapp3.1\DateTimeFormat.deps.json
+C:\Users\User\source\repos\Fistprogram\DateTimeFormat\bin\Debug\netcoreapp3.1\DateTimeFormat.runtimeconfig.json
+C:\Users\User\source\repos\Fistprogram\DateTimeFormat\bin\Debug\netcoreapp3.1\DateTimeFormat.runtimeconfig.dev.json
+C:\Users\User\source\repos\Fistprogram\DateTimeFormat\bin\Debug\netcoreapp3.1\DateTimeFormat.dll
+C:\Users\User\source\repos\Fistprogram\DateTimeFormat\bin\Debug\netcoreapp3.1\DateTimeFormat.pdb
+C:\Users\User\source\repos\Fistprogram\DateTimeFormat\obj\Debug\netcoreapp3.1\DateTimeFormat.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fistprogram\DateTimeFormat\obj\Debug\netcoreapp3.1\DateTimeFormat.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Fistprogram\DateTimeFormat\obj\Debug\netcoreapp3.1\DateTimeFormat.AssemblyInfo.cs
+C:\Users\User\source\repos\Fistprogram\DateTimeFormat\obj\Debug\netcoreapp3.1\DateTimeFormat.dll
+C:\Users\User\source\repos\Fistprogram\DateTimeFormat\obj\Debug\netcoreapp3.1\DateTimeFormat.pdb
+C:\Users\User\source\repos\Fistprogram\DateTimeFormat\obj\Debug\netcoreapp3.1\DateTimeFormat.genruntimeconfig.cache

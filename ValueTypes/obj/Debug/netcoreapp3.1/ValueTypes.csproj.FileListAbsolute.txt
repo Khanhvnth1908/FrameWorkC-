@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Fistprogram\ValueTypes\bin\Debug\netcoreapp3.1\ValueTypes.exe
+C:\Users\User\source\repos\Fistprogram\ValueTypes\bin\Debug\netcoreapp3.1\ValueTypes.deps.json
+C:\Users\User\source\repos\Fistprogram\ValueTypes\bin\Debug\netcoreapp3.1\ValueTypes.runtimeconfig.json
+C:\Users\User\source\repos\Fistprogram\ValueTypes\bin\Debug\netcoreapp3.1\ValueTypes.runtimeconfig.dev.json
+C:\Users\User\source\repos\Fistprogram\ValueTypes\bin\Debug\netcoreapp3.1\ValueTypes.dll
+C:\Users\User\source\repos\Fistprogram\ValueTypes\bin\Debug\netcoreapp3.1\ValueTypes.pdb
+C:\Users\User\source\repos\Fistprogram\ValueTypes\obj\Debug\netcoreapp3.1\ValueTypes.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Fistprogram\ValueTypes\obj\Debug\netcoreapp3.1\ValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fistprogram\ValueTypes\obj\Debug\netcoreapp3.1\ValueTypes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Fistprogram\ValueTypes\obj\Debug\netcoreapp3.1\ValueTypes.AssemblyInfo.cs
+C:\Users\User\source\repos\Fistprogram\ValueTypes\obj\Debug\netcoreapp3.1\ValueTypes.dll
+C:\Users\User\source\repos\Fistprogram\ValueTypes\obj\Debug\netcoreapp3.1\ValueTypes.pdb
+C:\Users\User\source\repos\Fistprogram\ValueTypes\obj\Debug\netcoreapp3.1\ValueTypes.genruntimeconfig.cache
